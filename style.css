@@ -5,6 +5,10 @@
     align-items: center; /* Centraliza verticalmente */
 }
 
+.container img {
+    justify-content: center; /* Centraliza horizontalmente */
+}
+
 img {
     width: 20vh;
 }
